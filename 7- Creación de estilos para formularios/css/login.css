@@ -163,7 +163,7 @@ label input:hover{
 
 label input:focus{
     background-color: white;
-    border: solid 1px #f3f3f4;
+    border: solid 1px #212121;
     box-shadow: 0 0 4px #f064ec98;
 }
 
